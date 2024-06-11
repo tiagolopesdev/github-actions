@@ -23,7 +23,6 @@ jobs:
     - name: Build and push Docker images
       uses: docker/build-push-action@v5.3.0
       with:
-        context: ./github-actions  # Diretório de contexto
-        file: ./github-actions/Dockerfile # Caminho para o Dockerfile
-        tags: v1
+        context: .  # Diretório de contexto
+        tags: 'tiagolopesdocker/github-actions:tagname'
         push: true
