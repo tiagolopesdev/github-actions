@@ -1,0 +1,15 @@
+D:\Documentos\PosTech\github-actions\bin\Debug\net8.0\github-actions.exe
+D:\Documentos\PosTech\github-actions\bin\Debug\net8.0\github-actions.deps.json
+D:\Documentos\PosTech\github-actions\bin\Debug\net8.0\github-actions.runtimeconfig.json
+D:\Documentos\PosTech\github-actions\bin\Debug\net8.0\github-actions.dll
+D:\Documentos\PosTech\github-actions\bin\Debug\net8.0\github-actions.pdb
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.AssemblyInfoInputs.cache
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.AssemblyInfo.cs
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.csproj.CoreCompileInputs.cache
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.sourcelink.json
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.dll
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\refint\github-actions.dll
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.pdb
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\github-actions.genruntimeconfig.cache
+D:\Documentos\PosTech\github-actions\obj\Debug\net8.0\ref\github-actions.dll
