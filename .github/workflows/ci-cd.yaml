@@ -2,9 +2,9 @@ name: .NET Core Desktop
 
 on:
   push:
-    branches: [ "develop" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "develop" ]
+    branches: [ "main" ]
 
 jobs:
   test_job:
@@ -23,7 +23,7 @@ jobs:
     - name: Build and push Docker images
       uses: docker/build-push-action@v5.3.0
       with:
-        context: ./SCAGEUsers/SCAGEUsers.api  # Diretório de contexto
-        file: ./SCAGEUsers/SCAGEUsers.api/Dockerfile # Caminho para o Dockerfile
+        context: ./github-actions  # Diretório de contexto
+        file: ./github-actions/Dockerfile # Caminho para o Dockerfile
         tags: v1
         push: true
